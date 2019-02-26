@@ -1,4 +1,4 @@
-#print armstrong number upto a range
+#print armstrong number in a range
 echo -e "enter a number from which u want to check armstrong number: \c"
 read n
 echo -e "enter a number upto which u want to check armstrong number: \c"
