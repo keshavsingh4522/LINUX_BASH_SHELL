@@ -1,0 +1,585 @@
+'apple_10_a.txt' -> '../otherfolder/apple_10_a.txt'
+'apple_10_c.txt' -> '../otherfolder/apple_10_c.txt'
+'apple_10_e.txt' -> '../otherfolder/apple_10_e.txt'
+'apple_10_g.txt' -> '../otherfolder/apple_10_g.txt'
+'apple_10_i.txt' -> '../otherfolder/apple_10_i.txt'
+'apple_10_k.txt' -> '../otherfolder/apple_10_k.txt'
+'apple_10_m.txt' -> '../otherfolder/apple_10_m.txt'
+'apple_10_o.txt' -> '../otherfolder/apple_10_o.txt'
+'apple_10_q.txt' -> '../otherfolder/apple_10_q.txt'
+'apple_10_s.txt' -> '../otherfolder/apple_10_s.txt'
+'apple_10_u.txt' -> '../otherfolder/apple_10_u.txt'
+'apple_10_w.txt' -> '../otherfolder/apple_10_w.txt'
+'apple_10_y.txt' -> '../otherfolder/apple_10_y.txt'
+'apple_1_a.txt' -> '../otherfolder/apple_1_a.txt'
+cp: cannot open 'apple_1_a.txt' for reading: Permission denied
+'apple_1_c.txt' -> '../otherfolder/apple_1_c.txt'
+cp: cannot open 'apple_1_c.txt' for reading: Permission denied
+'apple_1_e.txt' -> '../otherfolder/apple_1_e.txt'
+cp: cannot open 'apple_1_e.txt' for reading: Permission denied
+'apple_1_g.txt' -> '../otherfolder/apple_1_g.txt'
+cp: cannot open 'apple_1_g.txt' for reading: Permission denied
+'apple_1_i.txt' -> '../otherfolder/apple_1_i.txt'
+cp: cannot open 'apple_1_i.txt' for reading: Permission denied
+'apple_1_k.txt' -> '../otherfolder/apple_1_k.txt'
+cp: cannot open 'apple_1_k.txt' for reading: Permission denied
+'apple_1_m.txt' -> '../otherfolder/apple_1_m.txt'
+cp: cannot open 'apple_1_m.txt' for reading: Permission denied
+'apple_1_o.txt' -> '../otherfolder/apple_1_o.txt'
+cp: cannot open 'apple_1_o.txt' for reading: Permission denied
+'apple_1_q.txt' -> '../otherfolder/apple_1_q.txt'
+cp: cannot open 'apple_1_q.txt' for reading: Permission denied
+'apple_1_s.txt' -> '../otherfolder/apple_1_s.txt'
+cp: cannot open 'apple_1_s.txt' for reading: Permission denied
+'apple_1_u.txt' -> '../otherfolder/apple_1_u.txt'
+cp: cannot open 'apple_1_u.txt' for reading: Permission denied
+'apple_1_w.txt' -> '../otherfolder/apple_1_w.txt'
+cp: cannot open 'apple_1_w.txt' for reading: Permission denied
+'apple_1_y.txt' -> '../otherfolder/apple_1_y.txt'
+cp: cannot open 'apple_1_y.txt' for reading: Permission denied
+'apple_2_a.txt' -> '../otherfolder/apple_2_a.txt'
+'apple_2_c.txt' -> '../otherfolder/apple_2_c.txt'
+'apple_2_e.txt' -> '../otherfolder/apple_2_e.txt'
+'apple_2_g.txt' -> '../otherfolder/apple_2_g.txt'
+'apple_2_i.txt' -> '../otherfolder/apple_2_i.txt'
+'apple_2_k.txt' -> '../otherfolder/apple_2_k.txt'
+'apple_2_m.txt' -> '../otherfolder/apple_2_m.txt'
+'apple_2_o.txt' -> '../otherfolder/apple_2_o.txt'
+'apple_2_q.txt' -> '../otherfolder/apple_2_q.txt'
+'apple_2_s.txt' -> '../otherfolder/apple_2_s.txt'
+'apple_2_u.txt' -> '../otherfolder/apple_2_u.txt'
+'apple_2_w.txt' -> '../otherfolder/apple_2_w.txt'
+'apple_2_y.txt' -> '../otherfolder/apple_2_y.txt'
+'apple_3_a.txt' -> '../otherfolder/apple_3_a.txt'
+cp: cannot open 'apple_3_a.txt' for reading: Permission denied
+'apple_3_c.txt' -> '../otherfolder/apple_3_c.txt'
+cp: cannot open 'apple_3_c.txt' for reading: Permission denied
+'apple_3_e.txt' -> '../otherfolder/apple_3_e.txt'
+cp: cannot open 'apple_3_e.txt' for reading: Permission denied
+'apple_3_g.txt' -> '../otherfolder/apple_3_g.txt'
+cp: cannot open 'apple_3_g.txt' for reading: Permission denied
+'apple_3_i.txt' -> '../otherfolder/apple_3_i.txt'
+cp: cannot open 'apple_3_i.txt' for reading: Permission denied
+'apple_3_k.txt' -> '../otherfolder/apple_3_k.txt'
+cp: cannot open 'apple_3_k.txt' for reading: Permission denied
+'apple_3_m.txt' -> '../otherfolder/apple_3_m.txt'
+cp: cannot open 'apple_3_m.txt' for reading: Permission denied
+'apple_3_o.txt' -> '../otherfolder/apple_3_o.txt'
+cp: cannot open 'apple_3_o.txt' for reading: Permission denied
+'apple_3_q.txt' -> '../otherfolder/apple_3_q.txt'
+cp: cannot open 'apple_3_q.txt' for reading: Permission denied
+'apple_3_s.txt' -> '../otherfolder/apple_3_s.txt'
+cp: cannot open 'apple_3_s.txt' for reading: Permission denied
+'apple_3_u.txt' -> '../otherfolder/apple_3_u.txt'
+cp: cannot open 'apple_3_u.txt' for reading: Permission denied
+'apple_3_w.txt' -> '../otherfolder/apple_3_w.txt'
+cp: cannot open 'apple_3_w.txt' for reading: Permission denied
+'apple_3_y.txt' -> '../otherfolder/apple_3_y.txt'
+cp: cannot open 'apple_3_y.txt' for reading: Permission denied
+'apple_4_a.txt' -> '../otherfolder/apple_4_a.txt'
+'apple_4_c.txt' -> '../otherfolder/apple_4_c.txt'
+'apple_4_e.txt' -> '../otherfolder/apple_4_e.txt'
+'apple_4_g.txt' -> '../otherfolder/apple_4_g.txt'
+'apple_4_i.txt' -> '../otherfolder/apple_4_i.txt'
+'apple_4_k.txt' -> '../otherfolder/apple_4_k.txt'
+'apple_4_m.txt' -> '../otherfolder/apple_4_m.txt'
+'apple_4_o.txt' -> '../otherfolder/apple_4_o.txt'
+'apple_4_q.txt' -> '../otherfolder/apple_4_q.txt'
+'apple_4_s.txt' -> '../otherfolder/apple_4_s.txt'
+'apple_4_u.txt' -> '../otherfolder/apple_4_u.txt'
+'apple_4_w.txt' -> '../otherfolder/apple_4_w.txt'
+'apple_4_y.txt' -> '../otherfolder/apple_4_y.txt'
+'apple_5_a.txt' -> '../otherfolder/apple_5_a.txt'
+cp: cannot open 'apple_5_a.txt' for reading: Permission denied
+'apple_5_c.txt' -> '../otherfolder/apple_5_c.txt'
+cp: cannot open 'apple_5_c.txt' for reading: Permission denied
+'apple_5_e.txt' -> '../otherfolder/apple_5_e.txt'
+cp: cannot open 'apple_5_e.txt' for reading: Permission denied
+'apple_5_g.txt' -> '../otherfolder/apple_5_g.txt'
+cp: cannot open 'apple_5_g.txt' for reading: Permission denied
+'apple_5_i.txt' -> '../otherfolder/apple_5_i.txt'
+cp: cannot open 'apple_5_i.txt' for reading: Permission denied
+'apple_5_k.txt' -> '../otherfolder/apple_5_k.txt'
+cp: cannot open 'apple_5_k.txt' for reading: Permission denied
+'apple_5_m.txt' -> '../otherfolder/apple_5_m.txt'
+cp: cannot open 'apple_5_m.txt' for reading: Permission denied
+'apple_5_o.txt' -> '../otherfolder/apple_5_o.txt'
+cp: cannot open 'apple_5_o.txt' for reading: Permission denied
+'apple_5_q.txt' -> '../otherfolder/apple_5_q.txt'
+cp: cannot open 'apple_5_q.txt' for reading: Permission denied
+'apple_5_s.txt' -> '../otherfolder/apple_5_s.txt'
+cp: cannot open 'apple_5_s.txt' for reading: Permission denied
+'apple_5_u.txt' -> '../otherfolder/apple_5_u.txt'
+cp: cannot open 'apple_5_u.txt' for reading: Permission denied
+'apple_5_w.txt' -> '../otherfolder/apple_5_w.txt'
+cp: cannot open 'apple_5_w.txt' for reading: Permission denied
+'apple_5_y.txt' -> '../otherfolder/apple_5_y.txt'
+cp: cannot open 'apple_5_y.txt' for reading: Permission denied
+'apple_6_a.txt' -> '../otherfolder/apple_6_a.txt'
+'apple_6_c.txt' -> '../otherfolder/apple_6_c.txt'
+'apple_6_e.txt' -> '../otherfolder/apple_6_e.txt'
+'apple_6_g.txt' -> '../otherfolder/apple_6_g.txt'
+'apple_6_i.txt' -> '../otherfolder/apple_6_i.txt'
+'apple_6_k.txt' -> '../otherfolder/apple_6_k.txt'
+'apple_6_m.txt' -> '../otherfolder/apple_6_m.txt'
+'apple_6_o.txt' -> '../otherfolder/apple_6_o.txt'
+'apple_6_q.txt' -> '../otherfolder/apple_6_q.txt'
+'apple_6_s.txt' -> '../otherfolder/apple_6_s.txt'
+'apple_6_u.txt' -> '../otherfolder/apple_6_u.txt'
+'apple_6_w.txt' -> '../otherfolder/apple_6_w.txt'
+'apple_6_y.txt' -> '../otherfolder/apple_6_y.txt'
+'apple_7_a.txt' -> '../otherfolder/apple_7_a.txt'
+cp: cannot open 'apple_7_a.txt' for reading: Permission denied
+'apple_7_c.txt' -> '../otherfolder/apple_7_c.txt'
+cp: cannot open 'apple_7_c.txt' for reading: Permission denied
+'apple_7_e.txt' -> '../otherfolder/apple_7_e.txt'
+cp: cannot open 'apple_7_e.txt' for reading: Permission denied
+'apple_7_g.txt' -> '../otherfolder/apple_7_g.txt'
+cp: cannot open 'apple_7_g.txt' for reading: Permission denied
+'apple_7_i.txt' -> '../otherfolder/apple_7_i.txt'
+cp: cannot open 'apple_7_i.txt' for reading: Permission denied
+'apple_7_k.txt' -> '../otherfolder/apple_7_k.txt'
+cp: cannot open 'apple_7_k.txt' for reading: Permission denied
+'apple_7_m.txt' -> '../otherfolder/apple_7_m.txt'
+cp: cannot open 'apple_7_m.txt' for reading: Permission denied
+'apple_7_o.txt' -> '../otherfolder/apple_7_o.txt'
+cp: cannot open 'apple_7_o.txt' for reading: Permission denied
+'apple_7_q.txt' -> '../otherfolder/apple_7_q.txt'
+cp: cannot open 'apple_7_q.txt' for reading: Permission denied
+'apple_7_s.txt' -> '../otherfolder/apple_7_s.txt'
+cp: cannot open 'apple_7_s.txt' for reading: Permission denied
+'apple_7_u.txt' -> '../otherfolder/apple_7_u.txt'
+cp: cannot open 'apple_7_u.txt' for reading: Permission denied
+'apple_7_w.txt' -> '../otherfolder/apple_7_w.txt'
+cp: cannot open 'apple_7_w.txt' for reading: Permission denied
+'apple_7_y.txt' -> '../otherfolder/apple_7_y.txt'
+cp: cannot open 'apple_7_y.txt' for reading: Permission denied
+'apple_8_a.txt' -> '../otherfolder/apple_8_a.txt'
+'apple_8_c.txt' -> '../otherfolder/apple_8_c.txt'
+'apple_8_e.txt' -> '../otherfolder/apple_8_e.txt'
+'apple_8_g.txt' -> '../otherfolder/apple_8_g.txt'
+'apple_8_i.txt' -> '../otherfolder/apple_8_i.txt'
+'apple_8_k.txt' -> '../otherfolder/apple_8_k.txt'
+'apple_8_m.txt' -> '../otherfolder/apple_8_m.txt'
+'apple_8_o.txt' -> '../otherfolder/apple_8_o.txt'
+'apple_8_q.txt' -> '../otherfolder/apple_8_q.txt'
+'apple_8_s.txt' -> '../otherfolder/apple_8_s.txt'
+'apple_8_u.txt' -> '../otherfolder/apple_8_u.txt'
+'apple_8_w.txt' -> '../otherfolder/apple_8_w.txt'
+'apple_8_y.txt' -> '../otherfolder/apple_8_y.txt'
+'apple_9_a.txt' -> '../otherfolder/apple_9_a.txt'
+cp: cannot open 'apple_9_a.txt' for reading: Permission denied
+'apple_9_c.txt' -> '../otherfolder/apple_9_c.txt'
+cp: cannot open 'apple_9_c.txt' for reading: Permission denied
+'apple_9_e.txt' -> '../otherfolder/apple_9_e.txt'
+cp: cannot open 'apple_9_e.txt' for reading: Permission denied
+'apple_9_g.txt' -> '../otherfolder/apple_9_g.txt'
+cp: cannot open 'apple_9_g.txt' for reading: Permission denied
+'apple_9_i.txt' -> '../otherfolder/apple_9_i.txt'
+cp: cannot open 'apple_9_i.txt' for reading: Permission denied
+'apple_9_k.txt' -> '../otherfolder/apple_9_k.txt'
+cp: cannot open 'apple_9_k.txt' for reading: Permission denied
+'apple_9_m.txt' -> '../otherfolder/apple_9_m.txt'
+cp: cannot open 'apple_9_m.txt' for reading: Permission denied
+'apple_9_o.txt' -> '../otherfolder/apple_9_o.txt'
+cp: cannot open 'apple_9_o.txt' for reading: Permission denied
+'apple_9_q.txt' -> '../otherfolder/apple_9_q.txt'
+cp: cannot open 'apple_9_q.txt' for reading: Permission denied
+'apple_9_s.txt' -> '../otherfolder/apple_9_s.txt'
+cp: cannot open 'apple_9_s.txt' for reading: Permission denied
+'apple_9_u.txt' -> '../otherfolder/apple_9_u.txt'
+cp: cannot open 'apple_9_u.txt' for reading: Permission denied
+'apple_9_w.txt' -> '../otherfolder/apple_9_w.txt'
+cp: cannot open 'apple_9_w.txt' for reading: Permission denied
+'apple_9_y.txt' -> '../otherfolder/apple_9_y.txt'
+cp: cannot open 'apple_9_y.txt' for reading: Permission denied
+'banana_10_a.txt' -> '../otherfolder/banana_10_a.txt'
+'banana_10_c.txt' -> '../otherfolder/banana_10_c.txt'
+'banana_10_e.txt' -> '../otherfolder/banana_10_e.txt'
+'banana_10_g.txt' -> '../otherfolder/banana_10_g.txt'
+'banana_10_i.txt' -> '../otherfolder/banana_10_i.txt'
+'banana_10_k.txt' -> '../otherfolder/banana_10_k.txt'
+'banana_10_m.txt' -> '../otherfolder/banana_10_m.txt'
+'banana_10_o.txt' -> '../otherfolder/banana_10_o.txt'
+'banana_10_q.txt' -> '../otherfolder/banana_10_q.txt'
+'banana_10_s.txt' -> '../otherfolder/banana_10_s.txt'
+'banana_10_u.txt' -> '../otherfolder/banana_10_u.txt'
+'banana_10_w.txt' -> '../otherfolder/banana_10_w.txt'
+'banana_10_y.txt' -> '../otherfolder/banana_10_y.txt'
+'banana_1_a.txt' -> '../otherfolder/banana_1_a.txt'
+cp: cannot open 'banana_1_a.txt' for reading: Permission denied
+'banana_1_c.txt' -> '../otherfolder/banana_1_c.txt'
+cp: cannot open 'banana_1_c.txt' for reading: Permission denied
+'banana_1_e.txt' -> '../otherfolder/banana_1_e.txt'
+cp: cannot open 'banana_1_e.txt' for reading: Permission denied
+'banana_1_g.txt' -> '../otherfolder/banana_1_g.txt'
+cp: cannot open 'banana_1_g.txt' for reading: Permission denied
+'banana_1_i.txt' -> '../otherfolder/banana_1_i.txt'
+cp: cannot open 'banana_1_i.txt' for reading: Permission denied
+'banana_1_k.txt' -> '../otherfolder/banana_1_k.txt'
+cp: cannot open 'banana_1_k.txt' for reading: Permission denied
+'banana_1_m.txt' -> '../otherfolder/banana_1_m.txt'
+cp: cannot open 'banana_1_m.txt' for reading: Permission denied
+'banana_1_o.txt' -> '../otherfolder/banana_1_o.txt'
+cp: cannot open 'banana_1_o.txt' for reading: Permission denied
+'banana_1_q.txt' -> '../otherfolder/banana_1_q.txt'
+cp: cannot open 'banana_1_q.txt' for reading: Permission denied
+'banana_1_s.txt' -> '../otherfolder/banana_1_s.txt'
+cp: cannot open 'banana_1_s.txt' for reading: Permission denied
+'banana_1_u.txt' -> '../otherfolder/banana_1_u.txt'
+cp: cannot open 'banana_1_u.txt' for reading: Permission denied
+'banana_1_w.txt' -> '../otherfolder/banana_1_w.txt'
+cp: cannot open 'banana_1_w.txt' for reading: Permission denied
+'banana_1_y.txt' -> '../otherfolder/banana_1_y.txt'
+cp: cannot open 'banana_1_y.txt' for reading: Permission denied
+'banana_2_a.txt' -> '../otherfolder/banana_2_a.txt'
+'banana_2_c.txt' -> '../otherfolder/banana_2_c.txt'
+'banana_2_e.txt' -> '../otherfolder/banana_2_e.txt'
+'banana_2_g.txt' -> '../otherfolder/banana_2_g.txt'
+'banana_2_i.txt' -> '../otherfolder/banana_2_i.txt'
+'banana_2_k.txt' -> '../otherfolder/banana_2_k.txt'
+'banana_2_m.txt' -> '../otherfolder/banana_2_m.txt'
+'banana_2_o.txt' -> '../otherfolder/banana_2_o.txt'
+'banana_2_q.txt' -> '../otherfolder/banana_2_q.txt'
+'banana_2_s.txt' -> '../otherfolder/banana_2_s.txt'
+'banana_2_u.txt' -> '../otherfolder/banana_2_u.txt'
+'banana_2_w.txt' -> '../otherfolder/banana_2_w.txt'
+'banana_2_y.txt' -> '../otherfolder/banana_2_y.txt'
+'banana_3_a.txt' -> '../otherfolder/banana_3_a.txt'
+cp: cannot open 'banana_3_a.txt' for reading: Permission denied
+'banana_3_c.txt' -> '../otherfolder/banana_3_c.txt'
+cp: cannot open 'banana_3_c.txt' for reading: Permission denied
+'banana_3_e.txt' -> '../otherfolder/banana_3_e.txt'
+cp: cannot open 'banana_3_e.txt' for reading: Permission denied
+'banana_3_g.txt' -> '../otherfolder/banana_3_g.txt'
+cp: cannot open 'banana_3_g.txt' for reading: Permission denied
+'banana_3_i.txt' -> '../otherfolder/banana_3_i.txt'
+cp: cannot open 'banana_3_i.txt' for reading: Permission denied
+'banana_3_k.txt' -> '../otherfolder/banana_3_k.txt'
+cp: cannot open 'banana_3_k.txt' for reading: Permission denied
+'banana_3_m.txt' -> '../otherfolder/banana_3_m.txt'
+cp: cannot open 'banana_3_m.txt' for reading: Permission denied
+'banana_3_o.txt' -> '../otherfolder/banana_3_o.txt'
+cp: cannot open 'banana_3_o.txt' for reading: Permission denied
+'banana_3_q.txt' -> '../otherfolder/banana_3_q.txt'
+cp: cannot open 'banana_3_q.txt' for reading: Permission denied
+'banana_3_s.txt' -> '../otherfolder/banana_3_s.txt'
+cp: cannot open 'banana_3_s.txt' for reading: Permission denied
+'banana_3_u.txt' -> '../otherfolder/banana_3_u.txt'
+cp: cannot open 'banana_3_u.txt' for reading: Permission denied
+'banana_3_w.txt' -> '../otherfolder/banana_3_w.txt'
+cp: cannot open 'banana_3_w.txt' for reading: Permission denied
+'banana_3_y.txt' -> '../otherfolder/banana_3_y.txt'
+cp: cannot open 'banana_3_y.txt' for reading: Permission denied
+'banana_4_a.txt' -> '../otherfolder/banana_4_a.txt'
+'banana_4_c.txt' -> '../otherfolder/banana_4_c.txt'
+'banana_4_e.txt' -> '../otherfolder/banana_4_e.txt'
+'banana_4_g.txt' -> '../otherfolder/banana_4_g.txt'
+'banana_4_i.txt' -> '../otherfolder/banana_4_i.txt'
+'banana_4_k.txt' -> '../otherfolder/banana_4_k.txt'
+'banana_4_m.txt' -> '../otherfolder/banana_4_m.txt'
+'banana_4_o.txt' -> '../otherfolder/banana_4_o.txt'
+'banana_4_q.txt' -> '../otherfolder/banana_4_q.txt'
+'banana_4_s.txt' -> '../otherfolder/banana_4_s.txt'
+'banana_4_u.txt' -> '../otherfolder/banana_4_u.txt'
+'banana_4_w.txt' -> '../otherfolder/banana_4_w.txt'
+'banana_4_y.txt' -> '../otherfolder/banana_4_y.txt'
+'banana_5_a.txt' -> '../otherfolder/banana_5_a.txt'
+cp: cannot open 'banana_5_a.txt' for reading: Permission denied
+'banana_5_c.txt' -> '../otherfolder/banana_5_c.txt'
+cp: cannot open 'banana_5_c.txt' for reading: Permission denied
+'banana_5_e.txt' -> '../otherfolder/banana_5_e.txt'
+cp: cannot open 'banana_5_e.txt' for reading: Permission denied
+'banana_5_g.txt' -> '../otherfolder/banana_5_g.txt'
+cp: cannot open 'banana_5_g.txt' for reading: Permission denied
+'banana_5_i.txt' -> '../otherfolder/banana_5_i.txt'
+cp: cannot open 'banana_5_i.txt' for reading: Permission denied
+'banana_5_k.txt' -> '../otherfolder/banana_5_k.txt'
+cp: cannot open 'banana_5_k.txt' for reading: Permission denied
+'banana_5_m.txt' -> '../otherfolder/banana_5_m.txt'
+cp: cannot open 'banana_5_m.txt' for reading: Permission denied
+'banana_5_o.txt' -> '../otherfolder/banana_5_o.txt'
+cp: cannot open 'banana_5_o.txt' for reading: Permission denied
+'banana_5_q.txt' -> '../otherfolder/banana_5_q.txt'
+cp: cannot open 'banana_5_q.txt' for reading: Permission denied
+'banana_5_s.txt' -> '../otherfolder/banana_5_s.txt'
+cp: cannot open 'banana_5_s.txt' for reading: Permission denied
+'banana_5_u.txt' -> '../otherfolder/banana_5_u.txt'
+cp: cannot open 'banana_5_u.txt' for reading: Permission denied
+'banana_5_w.txt' -> '../otherfolder/banana_5_w.txt'
+cp: cannot open 'banana_5_w.txt' for reading: Permission denied
+'banana_5_y.txt' -> '../otherfolder/banana_5_y.txt'
+cp: cannot open 'banana_5_y.txt' for reading: Permission denied
+'banana_6_a.txt' -> '../otherfolder/banana_6_a.txt'
+'banana_6_c.txt' -> '../otherfolder/banana_6_c.txt'
+'banana_6_e.txt' -> '../otherfolder/banana_6_e.txt'
+'banana_6_g.txt' -> '../otherfolder/banana_6_g.txt'
+'banana_6_i.txt' -> '../otherfolder/banana_6_i.txt'
+'banana_6_k.txt' -> '../otherfolder/banana_6_k.txt'
+'banana_6_m.txt' -> '../otherfolder/banana_6_m.txt'
+'banana_6_o.txt' -> '../otherfolder/banana_6_o.txt'
+'banana_6_q.txt' -> '../otherfolder/banana_6_q.txt'
+'banana_6_s.txt' -> '../otherfolder/banana_6_s.txt'
+'banana_6_u.txt' -> '../otherfolder/banana_6_u.txt'
+'banana_6_w.txt' -> '../otherfolder/banana_6_w.txt'
+'banana_6_y.txt' -> '../otherfolder/banana_6_y.txt'
+'banana_7_a.txt' -> '../otherfolder/banana_7_a.txt'
+cp: cannot open 'banana_7_a.txt' for reading: Permission denied
+'banana_7_c.txt' -> '../otherfolder/banana_7_c.txt'
+cp: cannot open 'banana_7_c.txt' for reading: Permission denied
+'banana_7_e.txt' -> '../otherfolder/banana_7_e.txt'
+cp: cannot open 'banana_7_e.txt' for reading: Permission denied
+'banana_7_g.txt' -> '../otherfolder/banana_7_g.txt'
+cp: cannot open 'banana_7_g.txt' for reading: Permission denied
+'banana_7_i.txt' -> '../otherfolder/banana_7_i.txt'
+cp: cannot open 'banana_7_i.txt' for reading: Permission denied
+'banana_7_k.txt' -> '../otherfolder/banana_7_k.txt'
+cp: cannot open 'banana_7_k.txt' for reading: Permission denied
+'banana_7_m.txt' -> '../otherfolder/banana_7_m.txt'
+cp: cannot open 'banana_7_m.txt' for reading: Permission denied
+'banana_7_o.txt' -> '../otherfolder/banana_7_o.txt'
+cp: cannot open 'banana_7_o.txt' for reading: Permission denied
+'banana_7_q.txt' -> '../otherfolder/banana_7_q.txt'
+cp: cannot open 'banana_7_q.txt' for reading: Permission denied
+'banana_7_s.txt' -> '../otherfolder/banana_7_s.txt'
+cp: cannot open 'banana_7_s.txt' for reading: Permission denied
+'banana_7_u.txt' -> '../otherfolder/banana_7_u.txt'
+cp: cannot open 'banana_7_u.txt' for reading: Permission denied
+'banana_7_w.txt' -> '../otherfolder/banana_7_w.txt'
+cp: cannot open 'banana_7_w.txt' for reading: Permission denied
+'banana_7_y.txt' -> '../otherfolder/banana_7_y.txt'
+cp: cannot open 'banana_7_y.txt' for reading: Permission denied
+'banana_8_a.txt' -> '../otherfolder/banana_8_a.txt'
+'banana_8_c.txt' -> '../otherfolder/banana_8_c.txt'
+'banana_8_e.txt' -> '../otherfolder/banana_8_e.txt'
+'banana_8_g.txt' -> '../otherfolder/banana_8_g.txt'
+'banana_8_i.txt' -> '../otherfolder/banana_8_i.txt'
+'banana_8_k.txt' -> '../otherfolder/banana_8_k.txt'
+'banana_8_m.txt' -> '../otherfolder/banana_8_m.txt'
+'banana_8_o.txt' -> '../otherfolder/banana_8_o.txt'
+'banana_8_q.txt' -> '../otherfolder/banana_8_q.txt'
+'banana_8_s.txt' -> '../otherfolder/banana_8_s.txt'
+'banana_8_u.txt' -> '../otherfolder/banana_8_u.txt'
+'banana_8_w.txt' -> '../otherfolder/banana_8_w.txt'
+'banana_8_y.txt' -> '../otherfolder/banana_8_y.txt'
+'banana_9_a.txt' -> '../otherfolder/banana_9_a.txt'
+cp: cannot open 'banana_9_a.txt' for reading: Permission denied
+'banana_9_c.txt' -> '../otherfolder/banana_9_c.txt'
+cp: cannot open 'banana_9_c.txt' for reading: Permission denied
+'banana_9_e.txt' -> '../otherfolder/banana_9_e.txt'
+cp: cannot open 'banana_9_e.txt' for reading: Permission denied
+'banana_9_g.txt' -> '../otherfolder/banana_9_g.txt'
+cp: cannot open 'banana_9_g.txt' for reading: Permission denied
+'banana_9_i.txt' -> '../otherfolder/banana_9_i.txt'
+cp: cannot open 'banana_9_i.txt' for reading: Permission denied
+'banana_9_k.txt' -> '../otherfolder/banana_9_k.txt'
+cp: cannot open 'banana_9_k.txt' for reading: Permission denied
+'banana_9_m.txt' -> '../otherfolder/banana_9_m.txt'
+cp: cannot open 'banana_9_m.txt' for reading: Permission denied
+'banana_9_o.txt' -> '../otherfolder/banana_9_o.txt'
+cp: cannot open 'banana_9_o.txt' for reading: Permission denied
+'banana_9_q.txt' -> '../otherfolder/banana_9_q.txt'
+cp: cannot open 'banana_9_q.txt' for reading: Permission denied
+'banana_9_s.txt' -> '../otherfolder/banana_9_s.txt'
+cp: cannot open 'banana_9_s.txt' for reading: Permission denied
+'banana_9_u.txt' -> '../otherfolder/banana_9_u.txt'
+cp: cannot open 'banana_9_u.txt' for reading: Permission denied
+'banana_9_w.txt' -> '../otherfolder/banana_9_w.txt'
+cp: cannot open 'banana_9_w.txt' for reading: Permission denied
+'banana_9_y.txt' -> '../otherfolder/banana_9_y.txt'
+cp: cannot open 'banana_9_y.txt' for reading: Permission denied
+'mango_10_a.txt' -> '../otherfolder/mango_10_a.txt'
+'mango_10_c.txt' -> '../otherfolder/mango_10_c.txt'
+'mango_10_e.txt' -> '../otherfolder/mango_10_e.txt'
+'mango_10_g.txt' -> '../otherfolder/mango_10_g.txt'
+'mango_10_i.txt' -> '../otherfolder/mango_10_i.txt'
+'mango_10_k.txt' -> '../otherfolder/mango_10_k.txt'
+'mango_10_m.txt' -> '../otherfolder/mango_10_m.txt'
+'mango_10_o.txt' -> '../otherfolder/mango_10_o.txt'
+'mango_10_q.txt' -> '../otherfolder/mango_10_q.txt'
+'mango_10_s.txt' -> '../otherfolder/mango_10_s.txt'
+'mango_10_u.txt' -> '../otherfolder/mango_10_u.txt'
+'mango_10_w.txt' -> '../otherfolder/mango_10_w.txt'
+'mango_10_y.txt' -> '../otherfolder/mango_10_y.txt'
+'mango_1_a.txt' -> '../otherfolder/mango_1_a.txt'
+cp: cannot open 'mango_1_a.txt' for reading: Permission denied
+'mango_1_c.txt' -> '../otherfolder/mango_1_c.txt'
+cp: cannot open 'mango_1_c.txt' for reading: Permission denied
+'mango_1_e.txt' -> '../otherfolder/mango_1_e.txt'
+cp: cannot open 'mango_1_e.txt' for reading: Permission denied
+'mango_1_g.txt' -> '../otherfolder/mango_1_g.txt'
+cp: cannot open 'mango_1_g.txt' for reading: Permission denied
+'mango_1_i.txt' -> '../otherfolder/mango_1_i.txt'
+cp: cannot open 'mango_1_i.txt' for reading: Permission denied
+'mango_1_k.txt' -> '../otherfolder/mango_1_k.txt'
+cp: cannot open 'mango_1_k.txt' for reading: Permission denied
+'mango_1_m.txt' -> '../otherfolder/mango_1_m.txt'
+cp: cannot open 'mango_1_m.txt' for reading: Permission denied
+'mango_1_o.txt' -> '../otherfolder/mango_1_o.txt'
+cp: cannot open 'mango_1_o.txt' for reading: Permission denied
+'mango_1_q.txt' -> '../otherfolder/mango_1_q.txt'
+cp: cannot open 'mango_1_q.txt' for reading: Permission denied
+'mango_1_s.txt' -> '../otherfolder/mango_1_s.txt'
+cp: cannot open 'mango_1_s.txt' for reading: Permission denied
+'mango_1_u.txt' -> '../otherfolder/mango_1_u.txt'
+cp: cannot open 'mango_1_u.txt' for reading: Permission denied
+'mango_1_w.txt' -> '../otherfolder/mango_1_w.txt'
+cp: cannot open 'mango_1_w.txt' for reading: Permission denied
+'mango_1_y.txt' -> '../otherfolder/mango_1_y.txt'
+cp: cannot open 'mango_1_y.txt' for reading: Permission denied
+'mango_2_a.txt' -> '../otherfolder/mango_2_a.txt'
+'mango_2_c.txt' -> '../otherfolder/mango_2_c.txt'
+'mango_2_e.txt' -> '../otherfolder/mango_2_e.txt'
+'mango_2_g.txt' -> '../otherfolder/mango_2_g.txt'
+'mango_2_i.txt' -> '../otherfolder/mango_2_i.txt'
+'mango_2_k.txt' -> '../otherfolder/mango_2_k.txt'
+'mango_2_m.txt' -> '../otherfolder/mango_2_m.txt'
+'mango_2_o.txt' -> '../otherfolder/mango_2_o.txt'
+'mango_2_q.txt' -> '../otherfolder/mango_2_q.txt'
+'mango_2_s.txt' -> '../otherfolder/mango_2_s.txt'
+'mango_2_u.txt' -> '../otherfolder/mango_2_u.txt'
+'mango_2_w.txt' -> '../otherfolder/mango_2_w.txt'
+'mango_2_y.txt' -> '../otherfolder/mango_2_y.txt'
+'mango_3_a.txt' -> '../otherfolder/mango_3_a.txt'
+cp: cannot open 'mango_3_a.txt' for reading: Permission denied
+'mango_3_c.txt' -> '../otherfolder/mango_3_c.txt'
+cp: cannot open 'mango_3_c.txt' for reading: Permission denied
+'mango_3_e.txt' -> '../otherfolder/mango_3_e.txt'
+cp: cannot open 'mango_3_e.txt' for reading: Permission denied
+'mango_3_g.txt' -> '../otherfolder/mango_3_g.txt'
+cp: cannot open 'mango_3_g.txt' for reading: Permission denied
+'mango_3_i.txt' -> '../otherfolder/mango_3_i.txt'
+cp: cannot open 'mango_3_i.txt' for reading: Permission denied
+'mango_3_k.txt' -> '../otherfolder/mango_3_k.txt'
+cp: cannot open 'mango_3_k.txt' for reading: Permission denied
+'mango_3_m.txt' -> '../otherfolder/mango_3_m.txt'
+cp: cannot open 'mango_3_m.txt' for reading: Permission denied
+'mango_3_o.txt' -> '../otherfolder/mango_3_o.txt'
+cp: cannot open 'mango_3_o.txt' for reading: Permission denied
+'mango_3_q.txt' -> '../otherfolder/mango_3_q.txt'
+cp: cannot open 'mango_3_q.txt' for reading: Permission denied
+'mango_3_s.txt' -> '../otherfolder/mango_3_s.txt'
+cp: cannot open 'mango_3_s.txt' for reading: Permission denied
+'mango_3_u.txt' -> '../otherfolder/mango_3_u.txt'
+cp: cannot open 'mango_3_u.txt' for reading: Permission denied
+'mango_3_w.txt' -> '../otherfolder/mango_3_w.txt'
+cp: cannot open 'mango_3_w.txt' for reading: Permission denied
+'mango_3_y.txt' -> '../otherfolder/mango_3_y.txt'
+cp: cannot open 'mango_3_y.txt' for reading: Permission denied
+'mango_4_a.txt' -> '../otherfolder/mango_4_a.txt'
+'mango_4_c.txt' -> '../otherfolder/mango_4_c.txt'
+'mango_4_e.txt' -> '../otherfolder/mango_4_e.txt'
+'mango_4_g.txt' -> '../otherfolder/mango_4_g.txt'
+'mango_4_i.txt' -> '../otherfolder/mango_4_i.txt'
+'mango_4_k.txt' -> '../otherfolder/mango_4_k.txt'
+'mango_4_m.txt' -> '../otherfolder/mango_4_m.txt'
+'mango_4_o.txt' -> '../otherfolder/mango_4_o.txt'
+'mango_4_q.txt' -> '../otherfolder/mango_4_q.txt'
+'mango_4_s.txt' -> '../otherfolder/mango_4_s.txt'
+'mango_4_u.txt' -> '../otherfolder/mango_4_u.txt'
+'mango_4_w.txt' -> '../otherfolder/mango_4_w.txt'
+'mango_4_y.txt' -> '../otherfolder/mango_4_y.txt'
+'mango_5_a.txt' -> '../otherfolder/mango_5_a.txt'
+cp: cannot open 'mango_5_a.txt' for reading: Permission denied
+'mango_5_c.txt' -> '../otherfolder/mango_5_c.txt'
+cp: cannot open 'mango_5_c.txt' for reading: Permission denied
+'mango_5_e.txt' -> '../otherfolder/mango_5_e.txt'
+cp: cannot open 'mango_5_e.txt' for reading: Permission denied
+'mango_5_g.txt' -> '../otherfolder/mango_5_g.txt'
+cp: cannot open 'mango_5_g.txt' for reading: Permission denied
+'mango_5_i.txt' -> '../otherfolder/mango_5_i.txt'
+cp: cannot open 'mango_5_i.txt' for reading: Permission denied
+'mango_5_k.txt' -> '../otherfolder/mango_5_k.txt'
+cp: cannot open 'mango_5_k.txt' for reading: Permission denied
+'mango_5_m.txt' -> '../otherfolder/mango_5_m.txt'
+cp: cannot open 'mango_5_m.txt' for reading: Permission denied
+'mango_5_o.txt' -> '../otherfolder/mango_5_o.txt'
+cp: cannot open 'mango_5_o.txt' for reading: Permission denied
+'mango_5_q.txt' -> '../otherfolder/mango_5_q.txt'
+cp: cannot open 'mango_5_q.txt' for reading: Permission denied
+'mango_5_s.txt' -> '../otherfolder/mango_5_s.txt'
+cp: cannot open 'mango_5_s.txt' for reading: Permission denied
+'mango_5_u.txt' -> '../otherfolder/mango_5_u.txt'
+cp: cannot open 'mango_5_u.txt' for reading: Permission denied
+'mango_5_w.txt' -> '../otherfolder/mango_5_w.txt'
+cp: cannot open 'mango_5_w.txt' for reading: Permission denied
+'mango_5_y.txt' -> '../otherfolder/mango_5_y.txt'
+cp: cannot open 'mango_5_y.txt' for reading: Permission denied
+'mango_6_a.txt' -> '../otherfolder/mango_6_a.txt'
+'mango_6_c.txt' -> '../otherfolder/mango_6_c.txt'
+'mango_6_e.txt' -> '../otherfolder/mango_6_e.txt'
+'mango_6_g.txt' -> '../otherfolder/mango_6_g.txt'
+'mango_6_i.txt' -> '../otherfolder/mango_6_i.txt'
+'mango_6_k.txt' -> '../otherfolder/mango_6_k.txt'
+'mango_6_m.txt' -> '../otherfolder/mango_6_m.txt'
+'mango_6_o.txt' -> '../otherfolder/mango_6_o.txt'
+'mango_6_q.txt' -> '../otherfolder/mango_6_q.txt'
+'mango_6_s.txt' -> '../otherfolder/mango_6_s.txt'
+'mango_6_u.txt' -> '../otherfolder/mango_6_u.txt'
+'mango_6_w.txt' -> '../otherfolder/mango_6_w.txt'
+'mango_6_y.txt' -> '../otherfolder/mango_6_y.txt'
+'mango_7_a.txt' -> '../otherfolder/mango_7_a.txt'
+cp: cannot open 'mango_7_a.txt' for reading: Permission denied
+'mango_7_c.txt' -> '../otherfolder/mango_7_c.txt'
+cp: cannot open 'mango_7_c.txt' for reading: Permission denied
+'mango_7_e.txt' -> '../otherfolder/mango_7_e.txt'
+cp: cannot open 'mango_7_e.txt' for reading: Permission denied
+'mango_7_g.txt' -> '../otherfolder/mango_7_g.txt'
+cp: cannot open 'mango_7_g.txt' for reading: Permission denied
+'mango_7_i.txt' -> '../otherfolder/mango_7_i.txt'
+cp: cannot open 'mango_7_i.txt' for reading: Permission denied
+'mango_7_k.txt' -> '../otherfolder/mango_7_k.txt'
+cp: cannot open 'mango_7_k.txt' for reading: Permission denied
+'mango_7_m.txt' -> '../otherfolder/mango_7_m.txt'
+cp: cannot open 'mango_7_m.txt' for reading: Permission denied
+'mango_7_o.txt' -> '../otherfolder/mango_7_o.txt'
+cp: cannot open 'mango_7_o.txt' for reading: Permission denied
+'mango_7_q.txt' -> '../otherfolder/mango_7_q.txt'
+cp: cannot open 'mango_7_q.txt' for reading: Permission denied
+'mango_7_s.txt' -> '../otherfolder/mango_7_s.txt'
+cp: cannot open 'mango_7_s.txt' for reading: Permission denied
+'mango_7_u.txt' -> '../otherfolder/mango_7_u.txt'
+cp: cannot open 'mango_7_u.txt' for reading: Permission denied
+'mango_7_w.txt' -> '../otherfolder/mango_7_w.txt'
+cp: cannot open 'mango_7_w.txt' for reading: Permission denied
+'mango_7_y.txt' -> '../otherfolder/mango_7_y.txt'
+cp: cannot open 'mango_7_y.txt' for reading: Permission denied
+'mango_8_a.txt' -> '../otherfolder/mango_8_a.txt'
+'mango_8_c.txt' -> '../otherfolder/mango_8_c.txt'
+'mango_8_e.txt' -> '../otherfolder/mango_8_e.txt'
+'mango_8_g.txt' -> '../otherfolder/mango_8_g.txt'
+'mango_8_i.txt' -> '../otherfolder/mango_8_i.txt'
+'mango_8_k.txt' -> '../otherfolder/mango_8_k.txt'
+'mango_8_m.txt' -> '../otherfolder/mango_8_m.txt'
+'mango_8_o.txt' -> '../otherfolder/mango_8_o.txt'
+'mango_8_q.txt' -> '../otherfolder/mango_8_q.txt'
+'mango_8_s.txt' -> '../otherfolder/mango_8_s.txt'
+'mango_8_u.txt' -> '../otherfolder/mango_8_u.txt'
+'mango_8_w.txt' -> '../otherfolder/mango_8_w.txt'
+'mango_8_y.txt' -> '../otherfolder/mango_8_y.txt'
+'mango_9_a.txt' -> '../otherfolder/mango_9_a.txt'
+cp: cannot open 'mango_9_a.txt' for reading: Permission denied
+'mango_9_c.txt' -> '../otherfolder/mango_9_c.txt'
+cp: cannot open 'mango_9_c.txt' for reading: Permission denied
+'mango_9_e.txt' -> '../otherfolder/mango_9_e.txt'
+cp: cannot open 'mango_9_e.txt' for reading: Permission denied
+'mango_9_g.txt' -> '../otherfolder/mango_9_g.txt'
+cp: cannot open 'mango_9_g.txt' for reading: Permission denied
+'mango_9_i.txt' -> '../otherfolder/mango_9_i.txt'
+cp: cannot open 'mango_9_i.txt' for reading: Permission denied
+'mango_9_k.txt' -> '../otherfolder/mango_9_k.txt'
+cp: cannot open 'mango_9_k.txt' for reading: Permission denied
+'mango_9_m.txt' -> '../otherfolder/mango_9_m.txt'
+cp: cannot open 'mango_9_m.txt' for reading: Permission denied
+'mango_9_o.txt' -> '../otherfolder/mango_9_o.txt'
+cp: cannot open 'mango_9_o.txt' for reading: Permission denied
+'mango_9_q.txt' -> '../otherfolder/mango_9_q.txt'
+cp: cannot open 'mango_9_q.txt' for reading: Permission denied
+'mango_9_s.txt' -> '../otherfolder/mango_9_s.txt'
+cp: cannot open 'mango_9_s.txt' for reading: Permission denied
+'mango_9_u.txt' -> '../otherfolder/mango_9_u.txt'
+cp: cannot open 'mango_9_u.txt' for reading: Permission denied
+'mango_9_w.txt' -> '../otherfolder/mango_9_w.txt'
+cp: cannot open 'mango_9_w.txt' for reading: Permission denied
+'mango_9_y.txt' -> '../otherfolder/mango_9_y.txt'
+cp: cannot open 'mango_9_y.txt' for reading: Permission denied
