@@ -297,3 +297,112 @@ In Bash, the <Esc> character can be obtained with the following syntaxes:
 | 25  |	Reset blink	| echo -e "Normal \e[5mBlink \e[25mNormal" |
 | 27  |	Reset reverse	| echo -e "Normal \e[7minverted \e[27mNormal" |
 | 28  |	Reset hidden	| echo -e "Normal \e[8mHidden \e[28mNormal" |
+
+#### 8/16 Colors
+**NOTE:** The colors can vary depending of the terminal configuration.
+
+- Foreground (text)
+
+|Code | Color	| Example |
+| --- | ------- | ------- |
+| 39  |	Default foreground color | echo -e "Default \e[39mDefault" |
+| 30  |	Black	| echo -e "Default \e[30mBlack" |
+| 31  |	Red	| echo -e "Default \e[31mRed" |
+| 32  |	Green	| echo -e "Default \e[32mGreen" |
+| 33  |	Yellow	| echo -e "Default \e[33mYellow" |
+| 34  |	Blue	| echo -e "Default \e[34mBlue" |
+| 35  |	Magenta	| echo -e "Default \e[35mMagenta" |
+| 36  |	Cyan	| echo -e "Default \e[36mCyan" |
+| 37  |	Light gray	| echo -e "Default \e[37mLight gray" |
+| 90  |	Dark gray	| echo -e "Default \e[90mDark gray" |
+| 91  |	Light red	| echo -e "Default \e[91mLight red" |
+| 92  |	Light green	| echo -e "Default \e[92mLight green" |
+| 93  |	Light yellow	| echo -e "Default \e[93mLight yellow" |
+| 94  |	Light blue	| echo -e "Default \e[94mLight blue" |
+| 95  |	Light magenta	| echo -e "Default \e[95mLight magenta" |
+| 96  |	Light cyan	| echo -e "Default \e[96mLight cyan" |
+| 97  |	White	 | echo -e "Default \e[97mWhite" |
+
+- Background
+
+|Code | Color	| Example |
+| --- | ------- | ------- |
+| 49  |	Default background color	| echo -e "Default \e[49mDefault" |
+| 40  |	Black	| echo -e "Default \e[40mBlack" |
+| 41  |	Red	| echo -e "Default \e[41mRed" |
+| 42  |	Green	| echo -e "Default \e[42mGreen" |
+| 43  |	Yellow	| echo -e "Default \e[43mYellow" |
+| 44  |	Blue	| echo -e "Default \e[44mBlue" |
+| 45  |	Magenta	| echo -e "Default \e[45mMagenta" |
+| 46  |	Cyan	| echo -e "Default \e[46mCyan" |
+| 47  |	Light gray	| echo -e "Default \e[47mLight gray" |
+| 100 |	Dark gray	| echo -e "Default \e[100mDark gray" |
+| 101 |	Light red	| echo -e "Default \e[101mLight red" |
+| 102 |	Light green	| echo -e "Default \e[102mLight green" |
+| 103 |	Light yellow	| echo -e "Default \e[103mLight yellow" |
+| 104 |	Light blue	| echo -e "Default \e[104mLight blue"
+| 105 |	Light magenta	| echo -e "Default \e[105mLight magenta" |
+| 106 |	Light cyan	| echo -e "Default \e[106mLight cyan" |
+| 107 |	White	| echo -e "Default \e[107mWhite" |
+
+#### 88/256 Colors
+
+-Foreground (text)
+  
+  For using one of the 256 colors on the foreground (text color), the control sequence is “<Esc>[38;5;ColorNumberm” where ColorNumber is one of the following colors:
+
+![](color_1.png)
+
+- Background
+
+  For using one of the 256 colors on the background, the control sequence is “<Esc>[48;5;ColorNumberm” where ColorNumber is one of the following colors:
+
+![](color_2.png)
+
+#### Attributes combination
+
+- Terminals allow attribute combinations. The attributes must be separated by a semicolon (“;”).
+
+Examples: 
+
+| Description  |	Code (Bash)  |
+| ------------ | --------------- |
+| Bold + Underlined	| echo -e "\e[1;4mBold and Underlined" |
+| Bold + Red forground + Green background	| echo -e "\e[1;31;42m Yes it is awful \e[0m" |
+
+## Change the prompt color using tput
+
+- You can also change color of the PS1 prompt using tput as shown below:
+
+```bash
+export PS1="\[$(tput bold)$(tput setb 4)$(tput setaf 7)\]\u@\h:\w $ \[$(tput sgr0)\]"
+```
+
+- how to prompt part before  :~$, use below command
+```bash
+tput blink
+```
+| Style 						 | Command 			| Description   |
+| ------------------------------ | ---------------- | ------------  |
+| Foreground using ANSI escape   | tput setaf [0-7] | echo -e "$(tput setaf 1) keshav $(tput sgr0) singh" |
+| Foreground    				 | tput setf [0-7]  | echo -e "$(tput setf 1) keshav $(tput sgr0) singh"  |
+| background using ANSI escape   | tput setab [0-7] | echo -e "$(tput setab 1) keshav $(tput sgr0) singh" |
+| background    				 | tput setb [0-7]  | echo -e "$(tput setb 1) keshav $(tput sgr0) singh"  |
+| No style      				 | tput sgv0        | 
+| Bold          				 | tput bold        |
+| Low intensity 				 | tput dim         |
+| Underline     				 | tput smul        |
+| Blinking      				 | tput blink       |
+| Reverse       				 | tput rev         |
+- Color Code for tput:
+| Code | color name |
+| 0    | Black      |
+| 1    | Red   		|
+| 2    | Green 		|
+| 3    | Yellow 	|
+| 4    | Blue 		|
+| 5    | Magenta 	|
+| 6    | Cyan 		|
+| 7    | White 		|
+
+
